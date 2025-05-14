@@ -1,0 +1,6 @@
+{
+  "parent": "tutorialmod:block/garnet_ore",
+  "textures": {
+    "all": "tutorialmod:block/garnet_ore"
+  }
+}

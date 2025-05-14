@@ -1,4 +1,7 @@
 {
   "item.tutorialmod.garnet": "Garnet",
-  "item.tutorialmod.raw_garnet": "Raw Garnet"
+  "item.tutorialmod.raw_garnet": "Raw Garnet",
+
+  "block.tutorialmod.garnet_block": "Block of Garnet",
+  "block.tutorialmod.garnet_ore": "Garnet Ore"
 }
