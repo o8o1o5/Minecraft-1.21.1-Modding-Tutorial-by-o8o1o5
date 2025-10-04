@@ -3,5 +3,8 @@
   "item.tutorialmod.raw_garnet": "가넷 원석",
 
   "block.tutorialmod.garnet_block": "가넷 블록",
-  "block.tutorialmod.garnet_ore": "가넷 광석"
+  "block.tutorialmod.garnet_ore": "가넷 광석",
+
+  "creative.tutorialmod.garnet_items": "가넷 아이템",
+  "creative.tutorialmod.garnet_blocks": "가넷 블록"
 }

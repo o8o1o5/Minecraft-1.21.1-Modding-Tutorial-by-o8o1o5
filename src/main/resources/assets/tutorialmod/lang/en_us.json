@@ -3,5 +3,8 @@
   "item.tutorialmod.raw_garnet": "Raw Garnet",
 
   "block.tutorialmod.garnet_block": "Block of Garnet",
-  "block.tutorialmod.garnet_ore": "Garnet Ore"
+  "block.tutorialmod.garnet_ore": "Garnet Ore",
+
+  "creative.tutorialmod.garnet_items": "Garnet Items",
+  "creative.tutorialmod.garnet_blocks": "Garnet Blocks"
 }
